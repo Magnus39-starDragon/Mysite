@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--Magnus39-starDragon.aem.page/
-- Live: https://main--Mysite.aem.live/
+- Preview: https://main--mysite--aemtutorial.aem.page/
+- Live: https://main--mysite--aemtutorial.aem.live/
 
 ## Installation
 
